@@ -1,6 +1,6 @@
 # light-bund
 Шаблон подгрузки контента с анимацией.
-![Lax 2.0 Gif](https://github.com/VladislavBobyrev/vue3-notes/blob/main/vueNotes.gif)
+![Lax 2.0 Gif](https://github.com/VladislavBobyrev/light-bundl/blob/main/html.gif)
 Задача
 - Разработать шаблон с минимальным весом файла
 - создать анимацию загрузки контента
